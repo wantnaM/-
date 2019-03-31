@@ -16,3 +16,5 @@
   <view class='task-item'>做十套真题</view>
   <view class='task-item'>完成老师布置的作业</view>
 </view>
+
+<view class='task-more'></view>
