@@ -1,0 +1,5 @@
+<view class='index-container'>
+  <selectmodule btmodule="{{true}}" title="选择你的学习目标" text="明确目标坚定向前" tags="{{target}}"></selectmodule>
+  <selectmodule btmodule="{{true}}" title="日常学习的地方" text="与他人并肩作战" tags="{{place}}"></selectmodule>
+  <navigator class='nextone' url="/pages/choosereward/choosereward">下一步</navigator>
+</view>

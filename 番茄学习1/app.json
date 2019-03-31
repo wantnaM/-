@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/task/task",
+    "pages/index/index",
+    "pages/choosereward/choosereward",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#41be57",
+    "navigationBarTitleText": "番茄学习",
+    "navigationBarTextStyle": "white"
+  }
+}

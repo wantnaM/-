@@ -1,0 +1,29 @@
+.index-group {
+  margin-top: 100rpx;
+}
+
+.index-group .index-group-title {
+  font-weight: bold;
+  font-size: 36rpx;
+}
+
+.index-group .index-group-text {
+  font-size: 28rpx;
+  color: #b3b3b3;
+}
+
+.tags-list {
+  margin-top: 30rpx;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.tags-list button {
+  padding: 0 60rpx;
+  background: #fff;
+  font-size: 28rpx;
+  text-align: center;
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+}
